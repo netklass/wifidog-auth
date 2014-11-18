@@ -157,7 +157,7 @@ define('DATE_TIMEZONE', 'Canada/Eastern');
  * (the part before the _) must be part of the array above (the country
  * subcode may differ, and should be set to your country subcode)
  */
-define('DEFAULT_LANG', 'fr_CA');
+define('DEFAULT_LANG', 'en_US');
 
 /********************************************************************\
  * WIFIDOG FEATURES CONFIGURATION                                   *
